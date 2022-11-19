@@ -31,3 +31,11 @@ body{
     letter-spacing: 1px;
     cursor: pointer;
 }
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 1rem;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+}
