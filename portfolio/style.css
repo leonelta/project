@@ -10,11 +10,18 @@ body{
 
 .card{
     background-color: rgb(226, 240, 245);
-    width: 70rem;
+    width: 82rem;
     height: 750px;
     margin-top: 4rem ;
     margin-bottom: 0.3rem;
-    padding: 3rem;
-    left: 11rem;
+    padding: 1.5rem;
+    left: 9rem;
     position: relative;
+}
+
+.header{
+   display: flex;
+   justify-content: space-between;
+   margin: auto;
+   padding: 10px 30px;
 }
