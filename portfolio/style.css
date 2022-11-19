@@ -9,5 +9,12 @@ body{
 }
 
 .card{
-    
+    background-color: rgb(226, 240, 245);
+    width: 70rem;
+    height: 750px;
+    margin-top: 4rem ;
+    margin-bottom: 0.3rem;
+    padding: 3rem;
+    left: 11rem;
+    position: relative;
 }
