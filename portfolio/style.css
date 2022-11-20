@@ -65,9 +65,10 @@ body{
 
 .skill{
     display: flex;
-    padding: 35px 140px;
+    padding: 25px 140px 40px 130px;
 }
 
 .skill .myslf{
-    
+    margin-right: 35px;
+    margin-bottom: 3rem;
 }
