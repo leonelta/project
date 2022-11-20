@@ -10,12 +10,12 @@ body{
 
 .card{
     background-color: rgb(226, 240, 245);
-    width: 82rem;
+    width: 83rem;
     height: 700px;
     margin-top: 4rem ;
     margin-bottom: 0.3rem;
-    padding: 1.5rem;
-    left: 9rem;
+    padding: 1.5rem 1rem;
+    left: 7rem;
     position: relative;
 }
 
@@ -53,3 +53,6 @@ body{
     padding: 35px 70px;
 }
 
+.intro .intro-text{
+    margin: 5px 2rem;
+}
