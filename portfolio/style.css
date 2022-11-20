@@ -37,8 +37,8 @@ body{
 .navbar ul li{
     list-style: none;
     display: inline-block;
-    margin: 0 1rem;
-    font-size: 0.7rem;
+    margin: 0 1.3rem;
+    font-size: 0.8rem;
     text-transform: uppercase;
 }
 
@@ -46,6 +46,7 @@ body{
     color: black;
     font-weight: bold;
     transition: all 0.4s ease;
+    text-decoration: none;
 }
 
 .button{
@@ -107,9 +108,8 @@ body{
     display: inline-block;
     margin-top: 5px;
     margin-left: 1rem;
-    padding-left: 3px;
-    font-size: 1rem;
+    font-size: 0.8rem;
     text-transform: uppercase;
     border: 1px solid black;
-    border-radius: 20px;
+    
 }
